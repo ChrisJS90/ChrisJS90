@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris Sach</h1>
 <h3 align="center">A mechanical engineer turned software developer</h3>
 
-- 🔭 I’m currently working on [Dungeons & Dragons Dungeon Master App](https://github.com/ChrisJS90/DnD-dungeon-master-app-client)
+- 🔭 I’m currently working on [Dungeons & Dragons Dungeon Master App](https://github.com/ChrisJS90/dnd-dm-app-redux)
 
 - 🌱 I’m currently learning **C#**
 
