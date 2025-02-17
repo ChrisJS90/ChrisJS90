@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Dungeons & Dragons Dungeon Master App](https://github.com/ChrisJS90/DnD-dungeon-master-app-client)
 
-- 🌱 I’m currently learning **Tailwind**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **christophersach90@gmail.com**
 
